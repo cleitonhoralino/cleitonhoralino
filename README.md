@@ -24,21 +24,6 @@ Busco evoluir cada vez mais para um perfil **QA estratégico**, contribuindo nã
 
 ---
 
-## 🚀 Tecnologias
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
 ## 📬 Contato
 
 <div align="center">
@@ -58,8 +43,36 @@ Busco evoluir cada vez mais para um perfil **QA estratégico**, contribuindo nã
 <a href="https://github.com/cleitonhoralino">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+---
+## 🧑‍💻 Quem sou eu? 👇
+
+Sou **Cleiton Horalino**, Analista de Testes com mais de 4 anos de experiência em qualidade de software, atuando em conjunto com desenvolvedores e stakeholders na área de tecnologia.
+
+Tenho um histórico de impacto direto no negócio, participando de projetos que otimizaram processos críticos — como a melhoria de mais de 95% no tempo de compra e transferência de estoque em aplicações integradas com grandes e-commerces.
+
+Atuo com testes funcionais e de API, validação de integrações e análise de falhas, com forte foco em prevenção de erros em produção. Tenho experiência na simulação de cenários críticos em ERP, garantindo documentação clara de bugs e maior confiabilidade nas entregas.
+
+Minha base em suporte técnico fortaleceu minha visão analítica, permitindo identificar rapidamente problemas de usabilidade, versão e inconsistências em dados, com apoio de consultas em banco de dados (SQL).
+
+Busco evoluir continuamente para um perfil de QA cada vez mais estratégico, contribuindo não apenas com testes, mas com decisões que impactam diretamente a qualidade do produto e a experiência do cliente.
+---
 
 </div>
+
+## 🚀 Tecnologias
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
 
 ## 📄 Documentos 👇
 
