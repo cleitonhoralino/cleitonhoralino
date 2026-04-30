@@ -64,11 +64,11 @@ Busco evoluir cada vez mais para um perfil **QA estratégico**, contribuindo nã
 
 <div align="center">
 
-<a href="./Currículo - Analista de testes (Cleiton Horalino Soares de Morais).pdf">
+<a href="./cleiton-cv.pdf">
   <img src="https://img.shields.io/badge/Currículo-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
-<a href="./Carta_Apresentação_Cleiton_Horalino.pdf">
+<a href="./carta-cleiton.pdf">
   <img src="https://img.shields.io/badge/Carta Profissional-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
