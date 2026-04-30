@@ -15,6 +15,15 @@ Busco evoluir cada vez mais para um perfil **QA estratégico**, contribuindo nã
 
 ---
 
+## 🧪 QA Stack
+
+- Testes: API | Funcional | Exploratório  
+- Ferramentas: Postman | SQL | Cypress | Jira  
+- Linguagens: Java | JavaScript  
+- Metodologias: Scrum | Kanban  
+
+---
+
 ## 🧑‍💻 Quem sou eu?
 
 Sou **Cleiton Horalino**, Analista de Testes com mais de 4 anos de experiência em qualidade de software, atuando em conjunto com desenvolvedores e stakeholders na área de tecnologia.
@@ -29,14 +38,6 @@ Busco evoluir continuamente para um perfil de QA cada vez mais estratégico, con
 
 ---
 
-## 🧪 QA Stack
-
-- Testes: API | Funcional | Exploratório  
-- Ferramentas: Postman | SQL | Cypress | Jira  
-- Linguagens: Java | JavaScript  
-- Metodologias: Scrum | Kanban  
-
----
 ## 📬 Contato
 
 <div align="center">
@@ -58,7 +59,6 @@ Busco evoluir continuamente para um perfil de QA cada vez mais estratégico, con
 </a>
 
 </div>
-
 
 ---
 
