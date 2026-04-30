@@ -61,15 +61,15 @@ Busco evoluir cada vez mais para um perfil **QA estratégico**, contribuindo nã
 
 </div>
 
-## 📄Documents
-<div>
+## 📄 Documentos 👇
 
-<a href="./cleiton-cv.pdf">
-  <img src="https://img.shields.io/badge/Currículo-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
+| 📄 | 📄 | 📄 |
+|---|---|---|
+| <img src="https://img.shields.io/badge/CURRÍCULO-red?style=for-the-badge"/> | <img src="https://img.shields.io/badge/CARTA PROFISSIONAL-red?style=for-the-badge"/> | <img src="https://img.shields.io/badge/CURSOS-red?style=for-the-badge"/> |
+| [Currículo - PT](./cleiton-cv.pdf) | [Carta Profissional - PT](./carta-cleiton.pdf) | --- |
+| [Currículo - ES](./cleiton-cv-es.pdf) | [Carta Profissional - ES](./carta-es.pdf) | --- |
 
-<a href="./carta-cleiton.pdf">
-  <img src="https://img.shields.io/badge/Carta Profissional-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
+---
 
-</div>
+## ⚠️ Aviso  
+- Documentações atualizadas em 2026
