@@ -63,9 +63,9 @@ Busco evoluir cada vez mais para um perfil **QA estratégico**, contribuindo nã
 
 ## 📄 Documentos 👇
 
-| 📄 | 📄 | 📄 |
-|---|---|---|
-| <img src="https://img.shields.io/badge/CURRÍCULO-red?style=for-the-badge"/> | <img src="https://img.shields.io/badge/CARTA PROFISSIONAL-red?style=for-the-badge"/> | <img src="https://img.shields.io/badge/CURSOS-red?style=for-the-badge"/> |
+| 📄 | 📄 |
+|---|---|
+| <img src="https://img.shields.io/badge/CURRÍCULO-red?style=for-the-badge"/> | <img src="https://img.shields.io/badge/CARTA PROFISSIONAL-red?style=for-the-badge"/> |
 | [Currículo - PT](./cleiton-cv.pdf) | [Carta Profissional - PT](./carta-cleiton.pdf) | --- |
 
 ---
