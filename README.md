@@ -62,7 +62,7 @@ Busco evoluir cada vez mais para um perfil **QA estratégico**, contribuindo nã
 </div>
 
 
-<div align="center">
+<div>
 
 <a href="./cleiton-cv.pdf">
   <img src="https://img.shields.io/badge/Currículo-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
