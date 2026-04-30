@@ -18,7 +18,7 @@ Busco evoluir cada vez mais para um perfil **QA estratégico**, contribuindo nã
 ## 🧪 QA Stack
 
 - Testes: API | Funcional | Exploratório  
-- Ferramentas: Postman | SQL | Cypress  
+- Ferramentas: Postman | SQL | Cypress | Jira
 - Linguagens: Java | JavaScript  
 - Metodologias: Scrum | Kanban  
 
@@ -29,6 +29,7 @@ Busco evoluir cada vez mais para um perfil **QA estratégico**, contribuindo nã
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
