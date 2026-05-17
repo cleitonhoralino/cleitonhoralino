@@ -17,10 +17,10 @@ Busco evoluir cada vez mais para um perfil **QA estratégico**, contribuindo nã
 
 ## 🧪 QA Stack
 
-- Testes: API | Funcional | Exploratório  
-- Ferramentas: Postman | SQL | Cypress | Jira  
-- Linguagens: Java | JavaScript  
-- Metodologias: Scrum | Kanban  
+- Testes: API | Funcional | Exploratório  | Automatizado
+- Ferramentas: Postman | SQL | Cypress | Playwright | Jira | Git | GitHub | GitLab
+- Linguagens: Java | JavaScript  | PytHon
+- Metodologias: Scrum | Kanban|  Metodologias Ágeis 
 
 ---
 
